@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: com.example
+testFramework: junit
+sourceLanguage: kotlin
+buildTool: gradle_kotlin
+features: [annotation-api, app-name, assertj, aws-parameter-store, aws-v2-sdk, camunda, camunda-external-worker, data, data-jpa, dekorate-kubernetes, gradle, http-client, jdbc-hikari, junit, kotlin, kotlin-application, logback, management, mockito, netflix-ribbon, netty-server, openapi, postgres, properties, readme, shade, testcontainers]
